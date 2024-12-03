@@ -1,0 +1,12 @@
+const set=new Set();
+set.add('1');
+set.add('2');
+set.add("One");
+set.add("e");
+set.delete('One');
+console.log(set.has('1'));
+console.log(set);
+// set.clear();
+console.log(set.size);
+let arr=[...set];
+console.log(arr);
