@@ -45,6 +45,7 @@ a--->De Structuring in js
         De structuring in objects
         De structuring in Strings
         De structuring in Arrays
+        function parameters
 b--->Nested destructuring
         implementation on nested objects
 c--->Rest and spread operator
