@@ -63,3 +63,13 @@ d--->EmployeeWage
                 reached for a month 
 
 
+Date-05-12-24
+Topics Covered-
+a--->NodeJS, NPM,
+b--->Type Conversions, "use strict"
+c--->Comparisons,Conditional branching, Logical & Nullish coalescing operator
+d--->Interaction: alert, prompt, confirm, 
+e--->Polyfills and transpilers
+f--->Recursion and stack, 
+g--->Rest parameters and spread syntax, Variable scope, closure
+
