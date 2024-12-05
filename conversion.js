@@ -34,3 +34,9 @@ console.log(typeof (Number(123)));
 //b tostring();
 let num="1234";
 console.log(parseFloat(num));
+
+
+//  to number boolean
+console.log(Boolean(1));
+
+
