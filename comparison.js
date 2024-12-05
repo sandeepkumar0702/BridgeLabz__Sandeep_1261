@@ -17,3 +17,6 @@ console.log(null==undefined);//true
 console.log(null===undefined);
 
 
+console.log(NaN==NaN);
+console.log(NaN===NaN);
+
