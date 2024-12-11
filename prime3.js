@@ -13,12 +13,6 @@ function isPrime(n){
 }
 function prime(num,c){
     let arr=[];
-    if(isPrime(num)){
-        arr.push(num);
-    }
-    else{
-        console.log("not");
-    }
     let i=num;
     while(c>0){
         if(isPrime(i)){
