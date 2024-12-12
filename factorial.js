@@ -2,10 +2,12 @@
 
 function fact(n){
     if(n==0){
-        return 1;
+        return 1n;
     }
-    return n*fact(n-1);
+    let ans=0n
+    return ans=BigInt(n)*fact(n-1);
 }
-let ans=fact(5);
-console.log(ans);
+module.exports={fact};
+// let ans=fact(5);
+// console.log(ans);
 

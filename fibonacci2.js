@@ -1,7 +1,11 @@
 function fib(n){
-    if(n==0 || n==1){
-        return n;
-    }
-    return fib(n-1)+fib(n-2);
+   let a=0n,b=1n;
+   for(let i=2;i<=n;i++){
+    let c=0n;
+    c=a+b;
+    a=b;
+    b=c;
+   }
+   return b;
 }
-console.log(fib(10));
+module.exports = { fib };
