@@ -1,10 +1,11 @@
 # BridgeLabz_1261_Sandeep
-Date-29-11-24
-Topic Covered-
-a--->JavaScript data types,let ,var, const and their usecases
-        difference between let, var and const
-a--->if-else,else-if,for loop,while loop ,do while loop,
-        solved problem statement linke palindrome string,prime number etc
+Date-29-11-24  
+
+Topic Covered-  
+a--->  JavaScript data types,let ,var, const and their usecases
+        difference between let, var and const  
+a--->  if-else,else-if,for loop,while loop ,do while loop,
+        solved problem statement linke palindrome string,prime number etc  
 b--->Switch case,function declaration,function expression,arrow function,callback functions
 c--->problem statement on loops and switch case
 d--->Inbuilt function example Math.pow(),Math.random();
