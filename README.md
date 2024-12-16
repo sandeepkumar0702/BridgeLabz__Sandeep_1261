@@ -39,3 +39,24 @@
 - Spread Operator
 - Rest Operator
 
+**Date-05-12-24**
+- Use-Strict
+- Conditional  Branching
+- Comparison operator
+- Logical operator
+- Conversion in js
+       - Implicit conversion
+       - Explicit conversion
+- NullishCoalescing operator
+
+**Date-06-12-24
+- Iteractions
+       - Prompt
+       - Alert
+       - Confirm
+- Closure
+- Conversion
+- Event handler
+       - AddEventListener
+       - removeEventListener
+
