@@ -63,10 +63,10 @@
   
 **Date-09-12-24**
 - OOPs
-       - Encapsulation
-       - Inheritance
-       - Polymorphism
-       - Abstraction
+    - Encapsulation
+    - Inheritance
+    - Polymorphism
+    - Abstraction
 - Objects
 - Classes
 - Recursion
@@ -84,12 +84,18 @@
   - JavaScript Practice Problem
 
 **Date-13-12-24**
-- Arrays   
-       - Array Basic Functions  
-       - Array Find Methods  
-       - Array Iteration Methods   
-       - Array Sort Methods  
+- Arrays
+     - Array Basic Functions
+          - toString,length,push,pop,at,join,shift,unshift,delete,concat
+          - copyWithin,flat,flatMap,slice,spliced,toSpliced
+     - Array Find Methods
+          - indexOf,lastIndexOf,includes,find,findLast
+          - findIndex,findLastIndex 
+     - Array Iteration Methods
+          - forEach,map,filter,reduce,reduceRight
+          - every,some,from,keys,entries,with,spread
+     - Array Sort Methods 
 - Stack  
-       - Implementation
+     - Implementation
   
 
