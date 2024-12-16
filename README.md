@@ -84,10 +84,10 @@
   - JavaScript Practice Problem
 
 **Date-13-12-24**
-- Arrays  
-       - Array Basic Functions
+- Arrays   
+       - Array Basic Functions  
        - Array Find Methods  
-       - Array Iteration Methods  
+       - Array Iteration Methods   
        - Array Sort Methods  
 - Stack
        - Implementation
