@@ -44,21 +44,21 @@
 - Conditional  Branching
 - Comparison operator
 - Logical operator
-- Conversion in js
-          - Implicit conversion
-          - Explicit conversion
+- Conversion in - Use case1  
+     -  Implicit conversion
+     -  Explicit conversion
 - NullishCoalescing operator
 
 **Date-06-12-24**
-- Iteractions  
-       - Prompt  
-       - Alert  
-       - Confirm  
+- Iteractions
+    -  Prompt
+    -  Alert
+    -  Confirm  
 - Closure
 - Conversion
-- Event handler  
-        - AddEventListener  
-        - removeEventListener
+- Event handler
+    -  AddEventListener
+    -  RemoveEventListener 
 
   
 **Date-09-12-24**
