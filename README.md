@@ -73,3 +73,14 @@
 - Rest and spread operator difference
 - Problem on recursion
 
+**Date-10-12-24**
+- IIFE
+- NFE
+- Decorators
+- Forwarding
+- Practice Problem
+
+  **Date 10 Dec to 11 Dec ,2024**
+  - JavaScript Practice Problem
+  
+
