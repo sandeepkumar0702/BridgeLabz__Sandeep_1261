@@ -49,14 +49,14 @@
        - Explicit conversion
 - NullishCoalescing operator
 
-**Date-06-12-24
-- Iteractions
+**Date-06-12-24**
+- Iteractions 
        - Prompt
        - Alert
        - Confirm
 - Closure
 - Conversion
 - Event handler
-       - AddEventListener
-       - removeEventListener
+        - AddEventListener
+        - removeEventListener
 
