@@ -1,1 +1,23 @@
 # BridgeLabz_1261_Sandeep
+# Topic Covered
+
+**Date-29-12-24**
+- JavaScript basics
+- if-else
+- SwitchCase
+- For-Loop , While Loop,Do-While Loop
+- Sequence in js
+- Functions
+
+**Date-02-12-24**
+- Use case1  
+     -  List of employees with their salaries
+     -  filter  employees earning more then the specified amount
+     - map the filtered employees to show their name and  updated salary after ten percent increment
+     - use reduce to calculate the total salary for theses employee
+- Use Case2
+     - calculate the frequency of each word in a paragraph of text using reduce
+- Use Case3
+     - add item in Carts
+     - total price of items
+     - remove item by name;
