@@ -20,4 +20,21 @@
 - Use Case3
      - add item in Carts
      - total price of items
-     - remove item by name;
+     - remove item by name
+- Use Case4
+     - Take a list of students and their grades.
+     - Classify them as pass or fail
+     - Return total no of passing student
+  **Date-03-12-24**
+- Loops
+- Iterables
+- Map and WeakMap
+- Set and WeakSet
+- Destructuring
+       - Destructuring in Arrays
+       - Destructuring in String
+       - Destructuring in Objects
+       - Nested Destructuring
+- Spread Operator
+- Rest Operator
+
