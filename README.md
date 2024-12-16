@@ -31,11 +31,11 @@
 - Iterables
 - Map and WeakMap
 - Set and WeakSet
-- Destructuring
-       - Destructuring in Arrays
-       - Destructuring in String
-       - Destructuring in Objects
-       - Nested Destructuring
+- Destructuring  
+       - Destructuring in Arrays 
+       - Destructuring in String 
+       - Destructuring in Objects 
+       - Nested Destructuring 
 - Spread Operator
 - Rest Operator
 
