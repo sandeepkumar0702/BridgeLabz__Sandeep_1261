@@ -89,7 +89,7 @@
        - Array Find Methods  
        - Array Iteration Methods   
        - Array Sort Methods  
-- Stack
+- Stack  
        - Implementation
   
 
