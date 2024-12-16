@@ -26,8 +26,8 @@
      - Take a list of students and their grades.
      - Classify them as pass or fail
      - Return total no of passing student
-       
-  **Date-03-12-24**
+
+**Date-03-12-24**
 - Loops
 - Iterables
 - Function Types
@@ -41,7 +41,13 @@
 - Spread Operator
 - Rest Operator
 
+**Date-04-12-24**
+- Employee Wage - Practice all JS progamming constructs through this
+problem All code developed should be in GIT and to be practiced on daily
+basis
+
 **Date-05-12-24**
+  
 - Use-Strict
 - Conditional  Branching
 - Comparison operator
@@ -89,7 +95,7 @@
 - Forwarding
 - Practice Problem
 
-**Date 10 Dec to 11 Dec ,2024**
+**Date 11 Dec to 12 Dec ,2024**
   - JavaScript Practice Problem
 
 **Date-13-12-24**
