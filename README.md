@@ -3,6 +3,7 @@
 
 **Date-29-12-24**
 - JavaScript basics
+- Primitive Data Types
 - if-else
 - SwitchCase
 - For-Loop , While Loop,Do-While Loop
@@ -29,6 +30,7 @@
   **Date-03-12-24**
 - Loops
 - Iterables
+- Function Types
 - Map and WeakMap
 - Set and WeakSet
 - Destructuring  
@@ -48,8 +50,11 @@
      -  Implicit conversion
      -  Explicit conversion
 - NullishCoalescing operator
+- Git 
 
 **Date-06-12-24**
+- Node,Npm
+- Event Loop
 - Iteractions
     -  Prompt
     -  Alert
@@ -70,10 +75,14 @@
 - Objects
 - Classes
 - Recursion
+- Variable scope
+- closure
 - Rest and spread operator difference
 - Problem on recursion
 
 **Date-10-12-24**
+- Polyfills
+- Transpilers
 - IIFE
 - NFE
 - Decorators
