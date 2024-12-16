@@ -94,7 +94,9 @@
      - Array Iteration Methods
           - forEach,map,filter,reduce,reduceRight
           - every,some,from,keys,entries,with,spread
-     - Array Sort Methods 
+     - Array Sort Methods
+          - sort, sort in acsneding and descending
+          - toSorted,reverse,toReversed 
 - Stack  
      - Implementation
   
