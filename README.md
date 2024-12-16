@@ -82,5 +82,14 @@
 
 **Date 10 Dec to 11 Dec ,2024**
   - JavaScript Practice Problem
+
+**Date-13-12-24**
+- Arrays
+       - Array Basic Functions
+       - Array Find Methods
+       - Array Iteration Methods
+       - Array Sort Methods
+- Stack
+       - Implementation
   
 
