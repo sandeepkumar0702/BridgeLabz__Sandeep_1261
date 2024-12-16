@@ -84,7 +84,7 @@
   - JavaScript Practice Problem
 
 **Date-13-12-24**
-- Arrays
+- Arrays  
        - Array Basic Functions
        - Array Find Methods  
        - Array Iteration Methods  
