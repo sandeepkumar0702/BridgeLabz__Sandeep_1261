@@ -116,6 +116,10 @@ basis
      - Implementation
 
 **Date-16-12-24**
+- Sorting in Array
+     - Bubble Sort
+     - Insertion Sort
+     - Selection Sort
 - Queue
      - Implementation Using Array
      - Implementation Using class 
