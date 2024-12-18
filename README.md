@@ -56,7 +56,7 @@ basis
      -  Implicit conversion
      -  Explicit conversion
 - NullishCoalescing operator
-- Git 
+- Shallow Copy and Deep copy
 
 **Date-06-12-24**
 - Node,Npm
