@@ -111,7 +111,7 @@ class DoublyLinkedList{
       else{
         let current=this.head;
         let count=0;
-        while(count<idx) {
+        while(count<idx-1) {
             current=current.next;
             count++;
         }
@@ -127,7 +127,6 @@ class DoublyLinkedList{
         return null;
       }
       let current=this.head;
-  
       while(current){
         if(current.value===value) {
           if(current.prev){
