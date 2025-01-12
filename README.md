@@ -1,9 +1,7 @@
 # BridgeLabz_1261_Sandeep
 # Topic Covered
 
-<h1 align="center">JavaScript Programming</h1>
-
----
+<h1 align="center">Core JavaScript Programming</h1>
 
 **Date-29-12-24**
 - JavaScript basics
@@ -61,8 +59,8 @@ basis
      -  Explicit conversion
 - NullishCoalescing operator
 - Shallow Copy and Deep copy
----  
-**Node.Js Programming**
+
+<h1 align="center">NodeJs Programming</h1>
   
 **Date-06-12-24**
 - Node,Npm
@@ -103,7 +101,8 @@ basis
 
 **Date 11 Dec to 12 Dec ,2024**
   - JavaScript Practice Problem
-
+    
+<h1 align="center">Data Structures</h1>
 **Date-13-12-24**
 - Arrays
      - Array Basic Functions
