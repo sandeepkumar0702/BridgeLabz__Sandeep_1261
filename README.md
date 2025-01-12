@@ -112,14 +112,16 @@ basis
      - Array Sort Methods
           - sort, sort in acsneding and descending
           - toSorted,reverse,toReversed 
-- Stack  
-     - Implementation
 
 **Date-16-12-24**
 - Sorting in Array
      - Bubble Sort
      - Insertion Sort
      - Selection Sort
+     - MergeSort
+- Searching in Array
+     - Linear search
+     - Binary Search 
 - Queue
      - Implementation Using Array
      - Implementation Using class
