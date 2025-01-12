@@ -188,7 +188,7 @@ basis
 - Object methods
 - Problem Statement on Objects, Classes, objects Methods
 
-  **Date-07-12-24**  
+**Date-07-12-24**  
 - this Keyword
 - Constructor
 - new Operator
@@ -198,6 +198,8 @@ basis
 - Property getters and setters
 
 **Date-08-12-24**
+- Problem Statement on topic this Keyword, Constructor, optional chaining, Property flag and Descriptor
+
 **Date-09-12-24**
 - Promises chaining
 - Promises
@@ -207,7 +209,7 @@ basis
 - extending Error
 
 **Date-10-12-24**
-- Problem Statement on Promise, Promise Chaining, Error handling 
+- Problem Statement on Promise, Promise Chaining, Error handling, Custom Error
 
   
 
