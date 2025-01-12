@@ -103,7 +103,7 @@ basis
 
 **Date 12 Dec to 13 Dec ,2024**
   - JavaScript Practice Problem
-    -->
+
 <h1 align="center">Data Structures</h1>
 
 **Date-16-12-24**
@@ -145,10 +145,9 @@ basis
      - Practice problem on Queue
 - HashTable
      - Implementation
-
+-->
 **Date-19-12-24**
 
-     - 
 **Date-20-12-24**
 - Graph
      - Graph Using Adjancency List
