@@ -2,7 +2,7 @@
 # Topic Covered
 ---
 **JavaScript Programming**
-
+<h1 align="center">This is a Centered Heading</h1>
 **Date-29-12-24**
 - JavaScript basics
 - Primitive Data Types
