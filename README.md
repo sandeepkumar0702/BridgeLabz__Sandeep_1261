@@ -71,12 +71,12 @@ basis
     -  Confirm  
 - Closure
 - Conversion
+
+**Date-09-12-24**
+
 - Event handler
     -  AddEventListener
     -  RemoveEventListener 
-
-  
-**Date-09-12-24**
 - OOPs
     - Encapsulation
     - Inheritance
@@ -85,12 +85,15 @@ basis
 - Objects
 - Classes
 - Recursion
+  
+**Date-10-12-24**
+
 - Variable scope
 - closure
 - Rest and spread operator difference
 - Problem on recursion
 
-**Date-10-12-24**
+
 - Polyfills
 - Transpilers
 - IIFE
