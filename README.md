@@ -134,7 +134,7 @@ basis
      - Singly LinkedList
      - Double LinkedList
      - Circular LinkedList
-     - 
+
 **Date-18-12-24**
 - Stack
      - Implementation using array
@@ -144,7 +144,8 @@ basis
      - Implementation Using class
      - Practice problem on Queue
 - HashTable
-     - Implementation 
+     - Implementation
+
 **Date-19-12-24**
 
      - 
