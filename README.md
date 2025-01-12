@@ -1,4 +1,4 @@
-<!--# BridgeLabz_1261_Sandeep
+# BridgeLabz_1261_Sandeep
 # Topic Covered
 
 <h1 align="center">Core JavaScript Programming</h1>
@@ -177,7 +177,7 @@ basis
 
 **Date 24 Dec to 25 Dec**
 - Assignment on DSA
--->
+
 <h1 align="center">Advanced JavaScript</h1>
 
 **Date-06-12-24**  
