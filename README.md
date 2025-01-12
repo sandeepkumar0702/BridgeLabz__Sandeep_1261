@@ -180,11 +180,34 @@ basis
 -->
 <h1 align="center">Advanced JavaScript</h1>
 
-**Date-06-12-24**
-**Date-07-12-24**
+**Date-06-12-24**  
+- Objects
+- Classes
+- Object references and copying
+- Garbage collection
+- Object methods
+- Problem Statement on Objects, Classes, objects Methods
+
+  **Date-07-12-24**  
+- this Keyword
+- Constructor
+- new Operator
+- Optional chaining '?.'
+- Object to primitive conversion
+- Property flags and descriptors
+- Property getters and setters
+
 **Date-08-12-24**
 **Date-09-12-24**
+- Promises chaining
+- Promises
+- Promise API
+- Error handling with promises
+- Custom errors
+- extending Error
+
 **Date-10-12-24**
+- Problem Statement on Promise, Promise Chaining, Error handling 
 
   
 
