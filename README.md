@@ -146,14 +146,27 @@ basis
 - HashTable
      - Implementation
 -->
-**Date-19-12-24**
+**Date-19-12-24**  
+- Tree
+  - Implementation of binary tree
+  - InOrder Transversal
+  - PreOrder Transversal
+  - PostOrder Transversal
+  - LevelOrder Transversal 
+- Graph
+  - Graph Using Adjancency List
+  - Graph USing Adjancency Matrix
 
 **Date-20-12-24**
 - Graph
-     - Graph Using Adjancency List
-     - Graph USing Adjancency Matrix
      - Dfs
-     - Bfs
+     - Bfs 
+- Solid Principle
+  - S->Single responsibility principle
+  - O->Open closed principle
+  - L->Liskov substitution principle
+  - I->Interface segregation principle
+  - D->Dependency Inversion principle
 
 **Date-23-12-24**  
 - Review
