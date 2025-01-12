@@ -1,9 +1,9 @@
-# BridgeLabz_1261_Sandeep
+<!--# BridgeLabz_1261_Sandeep
 # Topic Covered
 
 <h1 align="center">Core JavaScript Programming</h1>
 
-**Date-29-12-24**
+**Date-29-12-24**  
 - JavaScript basics
 - Primitive Data Types
 - if-else
@@ -11,8 +11,8 @@
 - For-Loop , While Loop,Do-While Loop
 - Sequence in js
 - Functions
-
-**Date-02-12-24**
+  
+**Date-02-12-24**  
 - Use case1  
      -  List of employees with their salaries
      -  filter  employees earning more then the specified amount
@@ -28,8 +28,8 @@
      - Take a list of students and their grades.
      - Classify them as pass or fail
      - Return total no of passing student
-
-**Date-03-12-24**
+       
+**Date-03-12-24**  
 - Loops
 - Iterables
 - Function Types
@@ -42,14 +42,13 @@
      - Nested Destructuring 
 - Spread Operator
 - Rest Operator
-
-**Date-04-12-24**
+ 
+**Date-04-12-24**  
 - Employee Wage - Practice all JS progamming constructs through this
 problem All code developed should be in GIT and to be practiced on daily
 basis
 
-**Date-05-12-24**
-  
+**Date-05-12-24**  
 - Use-Strict
 - Conditional  Branching
 - Comparison operator
@@ -62,7 +61,7 @@ basis
 
 <h1 align="center">NodeJs Programming</h1>
   
-**Date-06-12-24**
+**Date-06-12-24**  
 - Node,Npm
 - Event Loop
 - Iteractions
@@ -72,8 +71,7 @@ basis
 - Closure
 - Conversion
 
-**Date-09-12-24**
-
+**Date-09-12-24**  
 - Event handler
     -  AddEventListener
     -  RemoveEventListener 
@@ -85,9 +83,8 @@ basis
 - Objects
 - Classes
 - Recursion
-  
-**Date-10-12-24**
 
+**Date-10-12-24**  
 - Problem on recursion
 - Variable scope
 - closure
@@ -104,10 +101,11 @@ basis
 - Forwarding
 - Practice Problem
 
-**Date 12 Dec to 12 Dec ,2024**
+**Date 12 Dec to 13 Dec ,2024**
   - JavaScript Practice Problem
-    
+    -->
 <h1 align="center">Data Structures</h1>
+
 **Date-16-12-24**
 - Arrays
      - Array Basic Functions
@@ -132,6 +130,11 @@ basis
 - Searching in Array
      - Linear search
      - Binary Search
+- LinkedList
+     - Singly LinkedList
+     - Double LinkedList
+     - Circular LinkedList
+     - 
 **Date-18-12-24**
 - Stack
      - Implementation using array
@@ -139,16 +142,35 @@ basis
 - Queue
      - Implementation Using Array
      - Implementation Using class
+     - Practice problem on Queue
+- HashTable
+     - Implementation 
 **Date-19-12-24**
+
+     - 
 **Date-20-12-24**
-
+- Graph
+     - Graph Using Adjancency List
+     - Graph USing Adjancency Matrix
+     - Dfs
+     - Bfs 
 **Date-23-12-24**
-**Date-24-12-24**
-**Date-25-12-24**
+- Review
+     - Problem Statement on LinkedList
+     - Problem Statement on Stack
+     - Problem Statement on Queue
+     - Problem Statement on Tree
 
----
-**Advanced-JavaScript** 
+**Date 24 Dec to 25 Dec**
+- Assignment on DSA
+
+<h1 align="center">Advanced JavaScript</h1>
 
 **Date-06-12-24**
+**Date-07-12-24**
+**Date-08-12-24**
+**Date-09-12-24**
+**Date-10-12-24**
+
   
 
