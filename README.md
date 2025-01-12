@@ -94,7 +94,7 @@ basis
 - Rest and spread operator difference
 - Problem on recursion
   
-**Date-10-12-24**
+**Date-11-12-24**
   
 - Polyfills
 - Transpilers
@@ -104,11 +104,11 @@ basis
 - Forwarding
 - Practice Problem
 
-**Date 11 Dec to 12 Dec ,2024**
+**Date 12 Dec to 12 Dec ,2024**
   - JavaScript Practice Problem
     
 <h1 align="center">Data Structures</h1>
-**Date-13-12-24**
+**Date-16-12-24**
 - Arrays
      - Array Basic Functions
           - toString,length,push,pop,at,join,shift,unshift,delete,concat
@@ -123,7 +123,7 @@ basis
           - sort, sort in acsneding and descending
           - toSorted,reverse,toReversed 
 
-**Date-16-12-24**
+**Date-17-12-24**
 - Sorting in Array
      - Bubble Sort
      - Insertion Sort
@@ -132,15 +132,13 @@ basis
 - Searching in Array
      - Linear search
      - Binary Search
-**Date-17-12-24**
+**Date-18-12-24**
 - Stack
      - Implementation using array
      - Questions on Stack
 - Queue
      - Implementation Using Array
      - Implementation Using class
-**Date-17-12-24**
-**Date-18-12-24**
 **Date-19-12-24**
 **Date-20-12-24**
 
