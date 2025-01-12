@@ -2,6 +2,7 @@
 # Topic Covered
 
 <h1 align="center">JavaScript Programming</h1>
+
 ---
 
 **Date-29-12-24**
