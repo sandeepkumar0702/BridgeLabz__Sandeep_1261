@@ -88,12 +88,14 @@ basis
   
 **Date-10-12-24**
 
+- Problem on recursion
 - Variable scope
 - closure
 - Rest and spread operator difference
 - Problem on recursion
-
-
+  
+**Date-10-12-24**
+  
 - Polyfills
 - Transpilers
 - IIFE
