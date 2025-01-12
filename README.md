@@ -57,7 +57,9 @@ basis
      -  Explicit conversion
 - NullishCoalescing operator
 - Shallow Copy and Deep copy
-
+---  
+**Node.Js Programming**
+  
 **Date-06-12-24**
 - Node,Npm
 - Event Loop
@@ -121,10 +123,23 @@ basis
      - MergeSort
 - Searching in Array
      - Linear search
-     - Binary Search 
+     - Binary Search
+**Date-17-12-24**
+- Stack
+     - Implementation using array
+     - Questions on Stack
 - Queue
      - Implementation Using Array
      - Implementation Using class
+**Date-17-12-24**
+**Date-18-12-24**
+**Date-19-12-24**
+**Date-20-12-24**
+
+**Date-23-12-24**
+**Date-24-12-24**
+**Date-25-12-24**
+
 ---
 **Advanced-JavaScript** 
 
