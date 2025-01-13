@@ -7,7 +7,7 @@ function fetchDataWithCallback(url,success,errorn) {
             success(data);
         })
         .catch((error) => {
-            error(errorn);
+            errorn(error);
         });
 }
 
