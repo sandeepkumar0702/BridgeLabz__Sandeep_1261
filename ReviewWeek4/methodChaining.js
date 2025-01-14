@@ -35,5 +35,3 @@ readData()
     console.log(error);
 })
 
-// console.log(data);
-
