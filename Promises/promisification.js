@@ -1,3 +1,4 @@
+//after
 const fetchData=()=>{
     return new Promise((resolve,reject)=>{
         setTimeout(()=>{
@@ -17,3 +18,21 @@ fetchData().then((result=>{
 .catch((err)=>{
     console.log(err);
 })
+
+
+
+//before
+function fetchdata1(callback){
+    setTimeout(()=>{
+        callback(null,"data fetched");
+    },1000);
+}
+function fetch1(err,res){
+    if(err){
+        console.log(err);
+    }
+    else{
+        console.log(res);
+    }
+}
+fetchdata1(fetch1);
