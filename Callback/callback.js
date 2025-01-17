@@ -15,10 +15,10 @@
 function  handle(){
     console.log("Data fetched succesfully");
 }
-function fetch(){
+function fetch(handle){
     setTimeout(()=>{
         handle();
     },2000);
     console.log("data is fetching");
 }
-fetch();
+fetch(handle);
