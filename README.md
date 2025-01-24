@@ -213,14 +213,19 @@ basis
 - extending Error
 - Currying
 - Promisification
-
-**Date-13-01-25**  
 - Problem Statement on Promise, Promise Chaining, Error handling, Custom Error
 
-**Date-14-01-25**
-**Date-15-01-25**
-**Date-16-01-25**
-**Date-17-01-25**
-
+**Date-13-01-25**  
+- Async-Await
+- Async Iteration
+- Async Generators
+- MicroTask
+- Hoisting
+- Problem Statement on Async- await
   
-
+**Date-14-01-25**
+- ProtoType
+- Native Prototype
+- ProtoTypel Inheritance
+- Object Without Proto
+- Practice Problem on prototypes
